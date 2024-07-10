@@ -1,3 +1,6 @@
+#partyplanner_gui.py
+#!/usr/env/bin python3
+
 import tkinter as tk
 from tkinter import ttk, messagebox
 import guest_management
